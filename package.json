@@ -1,0 +1,35 @@
+{
+  "name": "@dynamic-labs/next-ethers",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@dynamic-labs/algorand": "^0.19.0",
+    "@dynamic-labs/blocto-evm": "^0.19.0",
+    "@dynamic-labs/cosmos": "^0.19.0",
+    "@dynamic-labs/ethereum": "^0.19.6",
+    "@dynamic-labs/flow": "^0.19.0",
+    "@dynamic-labs/magic": "^0.19.0",
+    "@dynamic-labs/sdk-react-core": "^0.19.6",
+    "@dynamic-labs/solana": "^0.19.6",
+    "@dynamic-labs/starknet": "^0.19.0",
+    "@types/node": "20.5.4",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "eslint": "8.47.0",
+    "eslint-config-next": "13.4.19",
+    "next": "13.4.19",
+    "postcss": "8.4.28",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.2.2",
+    "viem": "^1.16.5"
+  }
+}
