@@ -13,7 +13,7 @@
     "@dynamic-labs/blocto-evm": "^0.19.0",
     "@dynamic-labs/cosmos": "^0.19.0",
     "@dynamic-labs/ethereum": "^0.19.6",
-    "@dynamic-labs/flow": "^0.19.0",
+    "@dynamic-labs/flow": "^1.1.1",
     "@dynamic-labs/magic": "^0.19.0",
     "@dynamic-labs/sdk-react-core": "^0.19.6",
     "@dynamic-labs/solana": "^0.19.6",
